@@ -9,17 +9,8 @@ O projeto foi desenvolvido com foco em aprendizado prático de manipulação de 
 
 ## 🚀 Funcionalidades  
 
-- Buscar valores históricos de ações.  
-- Exibir dados em formato de **tabela**.  
-- Gerar **gráficos interativos** para análise.  
-- Estrutura modular (`app.py`, `plot.py`, `tabela_grafico.py`) para fácil manutenção.  
+- Buscar valores históricos de ações e gerar gráfico de preços de uma ação em determinado período.  
 
----
-
-## 📊 Exemplos de Uso  
-
-- Gerar gráfico de preços de uma ação em determinado período.  
-- Exibir uma tabela com os valores históricos de fechamento.  
 
 ## 🛠️ Tecnologias Utilizadas  
 
