@@ -1,4 +1,4 @@
-# 📈 App Stock Historical Value  
+#  App Stock Historical Value  
 
 Aplicação em **Python** para consulta e visualização de valores históricos de ações.  
 O projeto foi desenvolvido com foco em aprendizado prático de manipulação de dados financeiros, geração de gráficos e exibição em tabelas.  
@@ -7,14 +7,14 @@ O projeto foi desenvolvido com foco em aprendizado prático de manipulação de 
 
 ---
 
-## 🚀 Funcionalidades  
+##  Funcionalidades  
 
 - Buscar valores históricos de ações e gerar gráfico de preços de uma ação em determinado período.  
 
 
-## 🛠️ Tecnologias Utilizadas  
+##  Tecnologias Utilizadas  
 
 - Python  
 - Streamlit  
 - Pandas  
-- Matplotlib / Plotly (dependendo do que foi definido no projeto)  
+- Matplotlib / Plotly
